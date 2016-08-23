@@ -77,6 +77,26 @@
                 </div>
             </div>
             </li>
+            <li class="timeline-inverted">
+            <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-right"></i></div>
+            <div class="timeline-panel">
+                <div class="timeline-heading">
+                <h4 class="timeline-title">Grand loto</h4>
+                <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>11 Novembre 2016</small></p>
+                <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>14h à 24h</small></p>
+                <p><small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle polyvalente de Meyenheim</small></p>
+                </div>
+                <div class="timeline-body">
+                <ul class="list-group">
+                    <li class="list-group-item">4 manches
+                    <li class="list-group-item">Ouverture des portes dès 12h
+                    <li class="list-group-item">Restauration assurée
+                </ul>
+                <hr>
+                <a class="page-scroll" href="#contact">Renseignements et inscription</a>
+                </div>
+            </div>
+            </li>
         </ul>
         </div>
     </section>
