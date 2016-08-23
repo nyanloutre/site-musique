@@ -157,6 +157,8 @@
     </section>
 
     <?php include('contact.html'); ?>
+    
+    <?php include('footer.html'); ?>
 
     <!-- jQuery -->
     <script src="vendor/jquery/jquery.min.js"></script>
