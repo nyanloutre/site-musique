@@ -149,3 +149,9 @@
 .timeline > li > img{
     padding-left: 20px;
 }
+
+.timeline-body > img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
