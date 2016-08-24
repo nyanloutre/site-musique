@@ -86,8 +86,8 @@
                     <ul class="list-group" style="color: #333;">
                             <li class="list-group-item">Mise à disposition “week-end” (mariage, communion, anniversaire,…) : 130€
                             <li class="list-group-item">Réunion (1/2 journée à 1 journée) : 50 € 
-                            <li class="list-group-item">+ Charges éventuelles (mise à disposition de la cuisine, chauffage,…)
-                            <li class="list-group-item">Caution : 300€
+                            <li class="list-group-item">+ Charges éventuelles (mise à disposition de la cuisine, vaisselle, chauffage,…)
+                            <li class="list-group-item">Caution : 150€
                         </ul>
                 </div>
             </div>
