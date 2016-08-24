@@ -130,8 +130,8 @@
                             <li class="list-group-item" data-toggle="popover" data-content="Mimo ILIEV" data-title="Enseignant">L'euphonium / baryton
                             <li class="list-group-item" data-toggle="popover" data-content="Mimo ILIEV" data-title="Enseignant">Le trombone
                             <li class="list-group-item" data-toggle="popover" data-content="Stephane AFFHOLDER" data-title="Enseignant">La batterie
-                            <li class="list-group-item" data-toggle="popover" data-content="Gilbert AMAN" data-title="Enseignant">La guitare acoustique
-                            <li class="list-group-item" data-toggle="popover" data-content="Gilbert AMAN" data-title="Enseignant">La guitare électrique
+                            <li class="list-group-item" data-toggle="popover" data-content="Gilbert AMANN" data-title="Enseignant">La guitare acoustique
+                            <li class="list-group-item" data-toggle="popover" data-content="Gilbert AMANN" data-title="Enseignant">La guitare électrique
                             <li class="list-group-item" data-toggle="popover" data-content="Sur demande">Le piano
                             <li class="list-group-item" data-toggle="popover" data-content="Sur demande">L'orgue d'église
                         </ul>
