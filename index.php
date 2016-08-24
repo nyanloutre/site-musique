@@ -8,6 +8,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Site de la musique de Meyenheim">
     <meta name="author" content="Paul TREHIOU">
+    <meta name="google-site-verification" content="vfIxnQkU6NJ__BiBJu2OXPP4JlijXV5Iq2R4Yskf3Ss" />
+    <meta name="wot-verification" content="696ad61a77115c0b9d5e"/>
 
     <title>Musique fraternité</title>
 
