@@ -71,7 +71,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">5 raisons pour mieux nous connaître</h2>
+                    <h2 class="section-heading">5 raisons de mieux nous connaître</h2>
                     <hr class="light">
                     <p class="text-faded">De nombreux évènements et activités organisés tout au long de l’année, un comité directeur bénévole dynamique pour faire vivre une association presque centenaire, une collaboration avec les Musiques voisines au travers de l’Harmonie intercommunale, une école de musique s’appuyant sur des professeurs qualifiés au sein d’une pédagogie basée sur la pratique instrumentale, une salle de musique entièrement rénovée et fonctionnelle disponible à la location.</p>
                 </div>
