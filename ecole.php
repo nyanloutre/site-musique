@@ -122,7 +122,7 @@
                         <img src="img/trombone.gif" alt="icone trombone">
                         <h3>Les instruments enseignés sont</h4>
                         <ul class="list-group">
-                            <li class="list-group-item" data-toggle="popover" data-content="Nathalie ROHRBACH" data-title="Enseignant">Le chant
+                            <li class="list-group-item track" data-toggle="popover" data-content="Nathalie ROHRBACH" data-title="Enseignant">Le chant
                             <li class="list-group-item" data-toggle="popover" data-content="Robert SCHMIDT" data-title="Enseignant">La flûte traversière et la flûte à bec
                             <li class="list-group-item" data-toggle="popover" data-content="Régis MAERKY" data-title="Enseignant">La clarinette
                             <li class="list-group-item" data-toggle="popover" data-content="Régis MAERKY" data-title="Enseignant">Les saxophones
@@ -172,11 +172,23 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="vendor/appear/appear.min.js"></script>
     
     <script type="text/javascript">
         $(function () {
             $('[data-toggle="popover"]').popover({trigger: "hover"})
         })
+        
+        appear({
+            elements: function elements(){
+                // work with all elements with the class "track"
+                return document.getElementsByClassName('track');
+            },
+            appear: function appear(el){
+                console.log('visible', el);
+                $(el).popover('show');
+            },
+        });
     </script>
 
     <!-- Plugin JavaScript -->
