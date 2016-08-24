@@ -69,7 +69,7 @@
     <section class="bg-primary" id="about">
         <div class="container">
             <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
+                <div class="col-lg-6 text-center">
                     <h2 class="section-heading">Dirigée par Mimo ILIEV, l’harmonie intercommunale réunit des musiciens de tous les âges dans une ambiance conviviale.</h2>
                     <hr class="light">
                     <p class="text-faded">Le répertoire est des plus variés, toujours renouvelé, suivant les services et évènements musicaux prévus, passant des airs classiques et traditionnels aux musiques les plus actuelles.</p>
@@ -80,6 +80,7 @@
                     <p class="text-faded">L’harmonie intercommunale est née de la réunion des harmonies de Meyenheim, Oberhergheim et Réguisheim mais est ouverte à tout musicien, notamment les jeunes musiciens après quelques années de pratiques mais aussi les adultes souhaitant reprendre une activité musicale après quelques années de pause.</p>
                     <p class="text-faded">L’Harmonie intercommunale est financée par la Communauté de Communes Centre Haut-Rhin.</p>
                 </div>
+                <img src="img/IllFest_2013_Corentin_Christophe.jpg" class="col-lg-6 img-responsive">
             </div>
         </div>
     </section>
