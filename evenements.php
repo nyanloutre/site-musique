@@ -25,6 +25,19 @@
     <!-- Theme CSS -->
     <link href="css/creative.min.css" rel="stylesheet">
     <link href="css/timeline.css" rel="stylesheet">
+    
+    <style>
+        @media (min-width: 768px) {
+            .navbar-default .nav > li > a,
+            .navbar-default .nav > li > a:focus {
+                color: #222222;
+            }
+            .navbar-default .nav > li > a:hover,
+            .navbar-default .nav > li > a:focus:hover {
+                color: #F05F40;
+            }
+        }
+    </style>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
