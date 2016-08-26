@@ -114,7 +114,7 @@
                         <i class="fa fa-4x fa-users text-primary sr-icons"></i>
                         <h3>Classe de formation musicale avec instrument (Chant compris)</h3>
                         <h4>À partir du CE1 et pour les adultes</h4>
-                        <p class="text-muted">L’élève intègre un des groupes proposés par le responsable pédagogique et son équipe. L’objectif est d’analyser et comprendre les éléments fondamentaux de la formation musicale par les partitions proposés et apprendre à jouer ensemble. Certains groupes interviennent en public lors de différentes manifestations</p>
+                        <p class="text-muted">L’élève intègre un des groupes proposés par le responsable pédagogique et son équipe. L’objectif est d’analyser et comprendre les éléments fondamentaux de la formation musicale par les partitions proposées et apprendre à jouer ensemble. Certains groupes interviennent en public lors de différentes manifestations</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 text-center">
