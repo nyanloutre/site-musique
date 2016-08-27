@@ -79,13 +79,13 @@
                     <h2 class="section-heading">Dates importantes</h2>
                     <hr class="light">
                     <h3>Réunion de rentrée pour les inscriptions</h3>
-                    <p><i class="glyphicon glyphicon-calendar"></i>Jeudi 08/09</p>
-                    <p><i class="glyphicon glyphicon-time"></i>20h</p>
-                    <p><i class="glyphicon glyphicon-map-marker"></i>Salle de musique, rue de l'Ill</p>
+                    <p><i class="glyphicon glyphicon-calendar"></i>Jeudi 08/09
+                    </br><i class="glyphicon glyphicon-time"></i>20h
+                    </br><i class="glyphicon glyphicon-map-marker"></i>Salle de musique, rue de l'Ill</p>
                     <h3>Kermesse musicale pour essayer tous les instruments</h3>
-                    <p><i class="glyphicon glyphicon-calendar"></i>Samedi 10/09</p>
-                    <p><i class="glyphicon glyphicon-time"></i>9h30 à 10h30</p>
-                    <p><i class="glyphicon glyphicon-map-marker"></i>Salle polyvalente de Meyenheim</p>
+                    <p><i class="glyphicon glyphicon-calendar"></i>Samedi 10/09
+                    </br><i class="glyphicon glyphicon-time"></i>9h30 à 10h30
+                    </br><i class="glyphicon glyphicon-map-marker"></i>Salle polyvalente de Meyenheim</p>
                     <h3>Début des cours</h3>
                     <p><i class="glyphicon glyphicon-calendar"></i>Lundi 12/09</p>
                     <a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Découvrez nos prestations</a>
