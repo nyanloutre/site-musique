@@ -76,6 +76,18 @@
                     <h2 class="section-heading">Fonctionnement</h2>
                     <hr class="light">
                     <p class="text-faded">Les cours sont dispensés tout au long de l'année scolaire par des professeurs qualifiés, reconnus au niveau départemental.</p>
+                    <h2 class="section-heading">Dates importantes</h2>
+                    <hr class="light">
+                    <h3>Réunion de rentrée pour les inscriptions</h3>
+                    <p><i class="glyphicon glyphicon-calendar">Jeudi 08/09</p>
+                    <p><i class="glyphicon glyphicon-time">20h</p>
+                    <p><i class="glyphicon glyphicon-map-marker">Salle de musique, rue de l'Ill</p>
+                    <h3>Kermesse musicale pour essayer tous les instruments</h3>
+                    <p><i class="glyphicon glyphicon-calendar">Samedi 10/09</p>
+                    <p><i class="glyphicon glyphicon-time">9h30 à 10h30</p>
+                    <p><i class="glyphicon glyphicon-map-marker">Salle polyvalente de Meyenheim</p>
+                    <h3>Début des cours</h3>
+                    <p><i class="glyphicon glyphicon-calendar">Lundi 12/09</p>
                     <a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Découvrez nos prestations</a>
                 </div>
             </div>
