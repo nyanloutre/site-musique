@@ -76,6 +76,7 @@
                     <h2 class="section-heading">Fonctionnement</h2>
                     <hr class="light">
                     <p class="text-faded">Les cours sont dispensés tout au long de l'année scolaire par des professeurs qualifiés, reconnus au niveau départemental.</p>
+                    <hr>
                     <h2 class="section-heading">Dates importantes</h2>
                     <hr class="light">
                     <h3>Réunion de rentrée pour les inscriptions</h3>
