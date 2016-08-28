@@ -162,13 +162,13 @@
                 <img src="img/galerie_ecole/01.jpg" alt="Illustration école de musique">
             </div>
             <div class="item">
-                <img src="img/galerie_ecole/O2.jpg" alt="Illustration école de musique">
+                <img src="img/galerie_ecole/02.jpg" alt="Illustration école de musique">
             </div>
             <div class="item">
-                <img src="img/galerie_ecole/O3.jpg" alt="Illustration école de musique">
+                <img src="img/galerie_ecole/03.jpg" alt="Illustration école de musique">
             </div>
             <div class="item">
-                <img src="img/galerie_ecole/O4.jpg" alt="Illustration école de musique">
+                <img src="img/galerie_ecole/04.jpg" alt="Illustration école de musique">
             </div>
         </div>
 
