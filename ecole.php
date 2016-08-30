@@ -87,7 +87,7 @@
                     
                     <p class="text-faded">
                         <div class="row">
-                            <b class="col-lg-6">9h30 - 11h</b>
+                            <b class="col-lg-3">9h30 - 11h</b>
                             <ul class="col-lg-6 list-group" style="color: #333;">
                                 <li class="list-group-item">Atelier d'essai des instruments et d'éveil musical
                                 <li class="list-group-item">Planning des cours avec les professeurs
@@ -95,7 +95,7 @@
                             </ul>
                         </div>
                         <div class="row">
-                            <b class="col-lg-6">vers 11h</b>
+                            <b class="col-lg-3">vers 11h</b>
                             <ul class="col-lg-6 list-group" style="color: #333;">
                                 <li class="list-group-item">Le "boeuf" des professeurs
                                 <li class="list-group-item">Tirage au sort de la tombola gratuite (Gros lot: 1 mois de cours offert pour l'instrument de son choix)
