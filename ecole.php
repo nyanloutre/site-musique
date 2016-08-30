@@ -79,13 +79,30 @@
                     <hr>
                     <h2 class="section-heading">Dates importantes</h2>
                     <hr class="light">
-                    <h3>Kermesse musicale pour essayer tous les instruments</h3>
+                    <h3>Kermesse musicale pour essayer tous les instruments et s'inscrire / se réinscrire</h3>
                     <p class="text-faded"><i class="glyphicon glyphicon-calendar"></i> Samedi 10/09
                     </br><i class="glyphicon glyphicon-time"></i> 9h30 à 11h30
                     </br><i class="glyphicon glyphicon-map-marker"></i> Salle polyvalente de Meyenheim</p>
                     <h4>Programme</h4>
-                    <p class="text-faded"><b>11h15</b> Le "boeuf" des profs
-                    </br><b>11h30</b> Tirage au sort de la tombola gratuite (Gros lot: 1 mois de cours offert pour l'instrument de son choix)</p>
+                    
+                    <p class="text-faded">
+                        <div class="row">
+                            <b class="col-lg-6">9h30 - 11h</b>
+                            <ul class="col-lg-6">
+                                <li>Atelier d'essai des instruments et d'éveil musical
+                                <li>Planning des cours avec les professeurs
+                                <li>Inscription / réinscription
+                            </ul>
+                        </div>
+                        <div class="row">
+                            <b class="col-lg-6">vers 11h</b>
+                            <ul class="col-lg-6">
+                                <li>Le "boeuf" des professeurs
+                                <li>Tirage au sort de la tombola gratuite (Gros lot: 1 mois de cours offert pour l'instrument de son choix)
+                            </ul>
+                        </div>
+                    </p>
+                    
                     <h3>Début des cours</h3>
                     <p class="text-faded"><i class="glyphicon glyphicon-calendar"></i> Lundi 12/09</p>
                     <a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Découvrez nos prestations</a>
