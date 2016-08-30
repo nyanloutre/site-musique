@@ -77,32 +77,35 @@
                     <hr class="light">
                     <p class="text-faded">Les cours sont dispensés tout au long de l'année scolaire par des professeurs qualifiés, reconnus au niveau départemental.</p>
                     <hr>
-                    <h2 class="section-heading">Dates importantes</h2>
+                    <h2 class="section-heading">Calendrier de rentrée</h2>
                     <hr class="light">
                     <h3>Kermesse musicale pour essayer tous les instruments et s'inscrire / se réinscrire</h3>
                     <p class="text-faded"><i class="glyphicon glyphicon-calendar"></i> Samedi 10/09
                     </br><i class="glyphicon glyphicon-time"></i> 9h30 à 11h30
                     </br><i class="glyphicon glyphicon-map-marker"></i> Salle polyvalente de Meyenheim</p>
-                    <h4>Programme</h4>
                     
-                    <p class="text-faded">
-                        <div class="row">
-                            <b class="col-lg-2">9h30 - 11h</b>
-                            <ul class="col-lg-8 list-group" style="color: #333;">
-                                <li class="list-group-item">Atelier d'essai des instruments et d'éveil musical
-                                <li class="list-group-item">Planning des cours avec les professeurs
-                                <li class="list-group-item">Inscription / réinscription
-                            </ul>
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">Programme</h4>
                         </div>
-                        <div class="row">
-                            <b class="col-lg-2">vers 11h</b>
-                            <ul class="col-lg-8 list-group" style="color: #333;">
-                                <li class="list-group-item">Le "boeuf" des professeurs
-                                <li class="list-group-item">Tirage au sort de la tombola gratuite (Gros lot: 1 mois de cours offert pour l'instrument de son choix)
-                            </ul>
+                        <div class="panel-body">
+                            <div class="row">
+                                <b class="col-lg-2">9h30 - 11h</b>
+                                <ul class="col-lg-8 list-group" style="color: #333;">
+                                    <li class="list-group-item">Atelier d'essai des instruments et d'éveil musical
+                                    <li class="list-group-item">Planning des cours avec les professeurs
+                                    <li class="list-group-item">Inscription / réinscription
+                                </ul>
+                            </div>
+                            <div class="row">
+                                <b class="col-lg-2">vers 11h</b>
+                                <ul class="col-lg-8 list-group" style="color: #333;">
+                                    <li class="list-group-item">Le "boeuf" des professeurs
+                                    <li class="list-group-item">Tirage au sort de la tombola gratuite (Gros lot: 1 mois de cours offert pour l'instrument de son choix)
+                                </ul>
+                            </div>
                         </div>
-                    </p>
-                    
+                    </div>
                     <h3>Début des cours</h3>
                     <p class="text-faded"><i class="glyphicon glyphicon-calendar"></i> Lundi 12/09</p>
                     <a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Découvrez nos prestations</a>
