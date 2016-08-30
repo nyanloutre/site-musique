@@ -84,14 +84,14 @@
                     </br><i class="glyphicon glyphicon-time"></i> 9h30 à 11h30
                     </br><i class="glyphicon glyphicon-map-marker"></i> Salle polyvalente de Meyenheim</p>
                     
-                    <div class="panel panel-default">
+                    <div class="panel panel-default" style="color: #333;">
                         <div class="panel-heading">
                             <h4 class="panel-title">Programme</h4>
                         </div>
                         <div class="panel-body">
                             <div class="row">
                                 <b class="col-lg-2">9h30 - 11h</b>
-                                <ul class="col-lg-8 list-group" style="color: #333;">
+                                <ul class="col-lg-8 list-group">
                                     <li class="list-group-item">Atelier d'essai des instruments et d'éveil musical
                                     <li class="list-group-item">Planning des cours avec les professeurs
                                     <li class="list-group-item">Inscription / réinscription
@@ -99,7 +99,7 @@
                             </div>
                             <div class="row">
                                 <b class="col-lg-2">vers 11h</b>
-                                <ul class="col-lg-8 list-group" style="color: #333;">
+                                <ul class="col-lg-8 list-group">
                                     <li class="list-group-item">Le "boeuf" des professeurs
                                     <li class="list-group-item">Tirage au sort de la tombola gratuite (Gros lot: 1 mois de cours offert pour l'instrument de son choix)
                                 </ul>
