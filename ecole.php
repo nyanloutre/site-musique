@@ -79,10 +79,6 @@
                     <hr>
                     <h2 class="section-heading">Dates importantes</h2>
                     <hr class="light">
-                    <h3>Réunion de rentrée pour les inscriptions</h3>
-                    <p class="text-faded"><i class="glyphicon glyphicon-calendar"></i> Jeudi 08/09
-                    </br><i class="glyphicon glyphicon-time"></i> 20h
-                    </br><i class="glyphicon glyphicon-map-marker"></i> Salle de musique, rue de l'Ill</p>
                     <h3>Kermesse musicale pour essayer tous les instruments</h3>
                     <p class="text-faded"><i class="glyphicon glyphicon-calendar"></i> Samedi 10/09
                     </br><i class="glyphicon glyphicon-time"></i> 9h30 à 11h30
