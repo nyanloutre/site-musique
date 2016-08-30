@@ -85,8 +85,11 @@
                     </br><i class="glyphicon glyphicon-map-marker"></i> Salle de musique, rue de l'Ill</p>
                     <h3>Kermesse musicale pour essayer tous les instruments</h3>
                     <p><i class="glyphicon glyphicon-calendar"></i> Samedi 10/09
-                    </br><i class="glyphicon glyphicon-time"></i> 9h30 à 10h30
+                    </br><i class="glyphicon glyphicon-time"></i> 9h30 à 11h30
                     </br><i class="glyphicon glyphicon-map-marker"></i> Salle polyvalente de Meyenheim</p>
+                    <h4>Programme</h4>
+                    <p>11h15 Le "boeuf" des profs
+                    </br>11h30 Tirage au sort de la tombola gratuite (Gros lot: 1 mois de cours offert pour l'instrument de son choix)</p>
                     <h3>Début des cours</h3>
                     <p><i class="glyphicon glyphicon-calendar"></i> Lundi 12/09</p>
                     <a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Découvrez nos prestations</a>
