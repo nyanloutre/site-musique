@@ -76,7 +76,7 @@
                     <h2 class="section-heading">Fonctionnement</h2>
                     <hr class="light">
                     <p class="text-faded">Les cours sont dispensés tout au long de l'année scolaire par des professeurs qualifiés, reconnus au niveau départemental.</p>
-                    <hr>
+                    <!-- <hr>
                     <h2 class="section-heading">Calendrier de rentrée</h2>
                     <hr class="light">
                     <h3>Kermesse musicale pour essayer tous les instruments et s'inscrire / se réinscrire</h3>
@@ -107,7 +107,7 @@
                         </div>
                     </div>
                     <h3>Début des cours</h3>
-                    <p class="text-faded"><i class="glyphicon glyphicon-calendar"></i> Lundi 12/09</p>
+                    <p class="text-faded"><i class="glyphicon glyphicon-calendar"></i> Lundi 12/09</p> -->
                     <a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Découvrez nos prestations</a>
                 </div>
             </div>
