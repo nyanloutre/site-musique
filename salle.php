@@ -78,7 +78,6 @@
                     <p class="text-faded">Une scène pour un DJ, un orchestre, une projection…</p>
                     <p class="text-faded">Une cuisine équipée (plaques, fours, lave-verre, vaisselle), ouverte vers la salle et vers une salle annexe de 25m2 ;</p>
                     <p class="text-faded">Un espace vert privé engazonné de 100m2 sous 2 tilleuls à disposition à côté de la salle pour apéritif extérieur ou barbecue ;</p>
-                    <p class="text-faded">Un branchement 380V triphasé à disposition ;</p>
                     <p class="text-faded">Salle entièrement rénovée en 2015-2016 avec notamment une mise aux normes accessibilité (notamment des sanitaires). Travaux en partie financés grâce aux subventions de la Commune de Meyenheim et du Conseil Départemental du Haut-Rhin</p>
                     <h2 class="section-heading">Mise à disposition pour évènements privés</h2>
                     <hr class="light">
