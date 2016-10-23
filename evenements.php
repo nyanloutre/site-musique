@@ -85,8 +85,34 @@
                 <small class="text-muted"><i class="glyphicon glyphicon-time"></i>14h à 24h</small></br>
                 <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle polyvalente de Meyenheim</small></p>
                 </div>
-                <div class="timeline-body">
-                <img src="img/timeline/2016_Loto_11_novembre_affiche.jpg" alt="Affiche loto" class="img-responsive">
+                <div class="timeline-body">                
+                
+                <div id="carousel-loto" class="carousel slide" data-ride="carousel">
+    
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+                        <div class="item active">
+                            <a href="img/timeline/2016_Loto_11_novembre_affiche.jpg" id="popup"><img src="img/timeline/2016_Loto_11_novembre_affiche.jpg" alt="Affiche loto 11 Novembre"></a>
+                        </div>
+                        <div class="item">
+                            <a href="img/timeline/2016_novembre_02B_affiche_loto_meyenheim_light.jpg" id="popup"><img src="img/timeline/2016_novembre_02B_affiche_loto_meyenheim_light.jpg" alt="Détails loto 11 Novembre"></a>
+                        </div>
+                    </div>
+
+                    <!-- Controls -->
+                    <a class="left carousel-control" href="#carousel-loto" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" href="#carousel-loto" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+                
+                
+                
+                
                 <ul class="list-group">
                     <li class="list-group-item">4 manches
                     <li class="list-group-item">Ouverture des portes dès 12h
@@ -142,6 +168,13 @@
 
     <!-- Theme JavaScript -->
     <script src="js/creative.min.js"></script>
+    
+    <!-- Popup -->
+    <script>
+        $('#popup').magnificPopup({
+            type: 'image'
+        });
+    </script>
 
 </body>
 
