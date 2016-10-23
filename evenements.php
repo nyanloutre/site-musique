@@ -81,11 +81,12 @@
             <div class="timeline-panel">
                 <div class="timeline-heading">
                 <h4 class="timeline-title">Grand loto</h4>
-                <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>11 Novembre 2016</small></p>
-                <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>14h à 24h</small></p>
-                <p><small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle polyvalente de Meyenheim</small></p>
+                <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>11 Novembre 2016</small></br>
+                <small class="text-muted"><i class="glyphicon glyphicon-time"></i>14h à 24h</small></br>
+                <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle polyvalente de Meyenheim</small></p>
                 </div>
                 <div class="timeline-body">
+                <img src="img/timeline/2016_Loto_11_novembre_affiche.jpg" alt="Affiche loto" class="img-responsive">
                 <ul class="list-group">
                     <li class="list-group-item">4 manches
                     <li class="list-group-item">Ouverture des portes dès 12h
@@ -114,9 +115,9 @@
                 <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>25 Septembre 2016</small></p>
                 </div>
                 <div class="timeline-body">
-                <img src="img/timeline/puces_t.jpg" alt="Affiche puces" class="img-responsive">
-                <p>Organisé par la Société de Musique et le Football Club de Meyenheim. Plus de 400 exposants, dans les rues du village autour de l'église. Restauration à toute heure : grillades, ...</p>
-                <a href="files/2016_09_puces_tract.pdf">Renseignements et inscription</a>
+                    <img src="img/timeline/puces_t.jpg" alt="Affiche puces" class="img-responsive">
+                    <p>Organisé par la Société de Musique et le Football Club de Meyenheim. Plus de 400 exposants, dans les rues du village autour de l'église. Restauration à toute heure : grillades, ...</p>
+                    <a href="files/2016_09_puces_tract.pdf">Renseignements et inscription</a>
                 </div>
             </div>
             </li>
