@@ -110,8 +110,7 @@
                     </a>
                 </div>
                 
-                
-                
+                <hr>
                 
                 <ul class="list-group">
                     <li class="list-group-item">4 manches
