@@ -77,78 +77,115 @@
         </div>
         <ul class="timeline">
             <li class="timeline-inverted">
-            <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-right"></i></div>
-            <div class="timeline-panel">
-                <div class="timeline-heading">
-                <h4 class="timeline-title">Grand loto</h4>
-                <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>11 Novembre 2016</small></br>
-                <small class="text-muted"><i class="glyphicon glyphicon-time"></i>14h à 24h</small></br>
-                <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle polyvalente de Meyenheim</small></p>
-                </div>
-                <div class="timeline-body">                
-                
-                <div id="carousel-loto" class="carousel slide" data-ride="carousel">
-    
-                    <!-- Wrapper for slides -->
-                    <div class="carousel-inner" role="listbox">
-                        <div class="item active">
-                            <a href="#launch1" data-toggle="modal">
-                                <img src="img/timeline/2016_Loto_11_novembre_affiche.jpg" alt="Affiche loto 11 Novembre">
-                            </a>
-                        </div>
-                        <div class="item">
-                            <a href="#launch2" data-toggle="modal">
-                                <img src="img/timeline/2016_novembre_02B_affiche_loto_meyenheim_light.jpg" alt="Détails loto 11 Novembre">
-                            </a>
-                        </div>
+                <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-right"></i></div>
+                <div class="timeline-panel">
+                    <div class="timeline-heading">
+                        <h4 class="timeline-title">Grand loto</h4>
+                        <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>11 Novembre 2016</small></br>
+                        <small class="text-muted"><i class="glyphicon glyphicon-time"></i>14h à 24h</small></br>
+                        <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle polyvalente de Meyenheim</small></p>
                     </div>
+                    <div class="timeline-body">                
+                    
+                        <div id="carousel-loto" class="carousel slide" data-ride="carousel">
+            
+                            <!-- Wrapper for slides -->
+                            <div class="carousel-inner" role="listbox">
+                                <div class="item active">
+                                    <a href="#launch1" data-toggle="modal">
+                                        <img src="img/timeline/2016_Loto_11_novembre_affiche.jpg" alt="Affiche loto 11 Novembre">
+                                    </a>
+                                </div>
+                                <div class="item">
+                                    <a href="#launch2" data-toggle="modal">
+                                        <img src="img/timeline/2016_novembre_02B_affiche_loto_meyenheim_light.jpg" alt="Détails loto 11 Novembre">
+                                    </a>
+                                </div>
+                            </div>
 
-                    <!-- Controls -->
-                    <a class="left carousel-control" href="#carousel-loto" role="button" data-slide="prev">
-                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                        <span class="sr-only">Previous</span>
-                    </a>
-                    <a class="right carousel-control" href="#carousel-loto" role="button" data-slide="next">
-                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                        <span class="sr-only">Next</span>
-                    </a>
-                </div>
-                
-                <hr>
-                
-                <ul class="list-group">
-                    <li class="list-group-item">4 manches
-                    <li class="list-group-item">Ouverture des portes dès 12h
-                    <li class="list-group-item">Restauration assurée
-                </ul>
-                <hr>
-                <a class="page-scroll" href="#contact">Renseignements et inscription</a>
-                    
-                <!-- Popup 1 -->
-                <div id="launch1" class="modal fade" style="display: none;">
-                    <div class="modal-dialog">
-                      <div class="modal-content">
-                        <div class="modal-body">
-                            <img src="img/timeline/2016_Loto_11_novembre_affiche.jpg" class="img-responsive">
+                            <!-- Controls -->
+                            <a class="left carousel-control" href="#carousel-loto" role="button" data-slide="prev">
+                                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                                <span class="sr-only">Previous</span>
+                            </a>
+                            <a class="right carousel-control" href="#carousel-loto" role="button" data-slide="next">
+                                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                                <span class="sr-only">Next</span>
+                            </a>
                         </div>
-                      </div>
+                        
+                        <hr>
+                        
+                        <ul class="list-group">
+                            <li class="list-group-item">4 manches
+                            <li class="list-group-item">Ouverture des portes dès 12h
+                            <li class="list-group-item">Restauration assurée
+                        </ul>
+                        
+                        <hr>
+                        
+                        <a class="page-scroll" href="#contact">Renseignements et inscription</a>
+                            
+                        <!-- Popup 1 -->
+                        <div id="launch1" class="modal fade">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img src="img/timeline/2016_Loto_11_novembre_affiche.jpg" class="img-responsive">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                            
+                        <!-- Popup 2 -->
+                        <div id="launch2" class="modal fade">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img src="img/timeline/2016_novembre_02B_affiche_loto_meyenheim_light.jpg" class="img-responsive">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
                     </div>
                 </div>
-                    
-                <!-- Popup 2 -->
-                <div id="launch2" class="modal fade" style="display: none;">
-                    <div class="modal-dialog">
-                      <div class="modal-content">
-                        <div class="modal-body">
-                            <img src="img/timeline/2016_novembre_02B_affiche_loto_meyenheim_light.jpg" class="img-responsive">
-                        </div>
-                      </div>
-                    </div>
-                </div>
-                    
-                </div>
-            </div>
             </li>
+            
+            <li class="timeline">
+                <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-left"></i></div>
+                <div class="timeline-panel">
+                    <div class="timeline-heading">
+                    <h4 class="timeline-title">Loto à l'ancienne</h4>
+                    <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>12 Novembre 2016</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-time"></i>20h</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle polyvalente de Meyenheim</small></p>
+                    </div>
+                    <div class="timeline-body">                
+        
+                        <a href="#launch1" data-toggle="modal">
+                            <img src="img/timeline/2016_novembre_03_affiche_loto_meyenheim_light.jpg" alt="Affiche loto 11 Novembre">
+                        </a>
+
+                        <hr>
+                        
+                        <a class="page-scroll" href="#contact">Renseignements et inscription</a>
+                            
+                        <!-- Popup 1 -->
+                        <div id="launch1" class="modal fade">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img src="img/timeline/2016_Loto_11_novembre_affiche.jpg" class="img-responsive">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </li>
+            
         </ul>
         </div>
     </section>
