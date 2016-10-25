@@ -37,6 +37,14 @@
                 color: #F05F40;
             }
         }
+        
+        .timeline-body > a > img {
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+            margin-bottom: 15px;
+        }
+        
     </style>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
