@@ -76,6 +76,7 @@
                     <hr class="light">
                     <p class="text-faded">Une salle principale pour 20 à 80 personnes assises à table</p>
                     <p class="text-faded">Une scène pour un DJ, un orchestre, une projection…</p>
+                    <p class="text-faded">Piano droit à disposition sur demande</p>
                     <p class="text-faded">Une cuisine équipée (plaques, fours, lave-verre, vaisselle), ouverte vers la salle et vers une salle annexe de 25m2 ;</p>
                     <p class="text-faded">Un espace vert privé engazonné de 100m2 sous 2 tilleuls à disposition à côté de la salle pour apéritif extérieur ou barbecue ;</p>
                     <p class="text-faded">Salle entièrement rénovée en 2015-2016 avec notamment une mise aux normes accessibilité (notamment des sanitaires). Travaux en partie financés grâce aux subventions de la Commune de Meyenheim et du Conseil Départemental du Haut-Rhin</p>
