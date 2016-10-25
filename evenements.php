@@ -205,9 +205,23 @@
                 <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>25 Septembre 2016</small></p>
                 </div>
                 <div class="timeline-body">
-                    <img src="img/timeline/puces_t.jpg" alt="Affiche puces" class="img-responsive">
+                    <a href="#launch4" data-toggle="modal">
+                        <img src="img/timeline/puces_t.jpg" alt="Affiche puces" class="img-responsive">
+                    </a>
                     <p>Organisé par la Société de Musique et le Football Club de Meyenheim. Plus de 400 exposants, dans les rues du village autour de l'église. Restauration à toute heure : grillades, ...</p>
                     <a href="files/2016_09_puces_tract.pdf">Renseignements et inscription</a>
+                    
+                    <!-- Popup 1 -->
+                    <div id="launch4" class="modal fade">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-body">
+                                    <img src="img/timeline/puces.jpg" class="img-responsive">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
                 </div>
             </div>
             </li>
