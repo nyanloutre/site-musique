@@ -92,10 +92,14 @@
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner" role="listbox">
                         <div class="item active">
-                            <a href="img/timeline/2016_Loto_11_novembre_affiche.jpg" id="popup"><img src="img/timeline/2016_Loto_11_novembre_affiche.jpg" alt="Affiche loto 11 Novembre"></a>
+                            <a href="#launch1" data-toggle="modal">
+                                <img src="img/timeline/2016_Loto_11_novembre_affiche.jpg" alt="Affiche loto 11 Novembre">
+                            </a>
                         </div>
                         <div class="item">
-                            <a href="img/timeline/2016_novembre_02B_affiche_loto_meyenheim_light.jpg" id="popup"><img src="img/timeline/2016_novembre_02B_affiche_loto_meyenheim_light.jpg" alt="Détails loto 11 Novembre"></a>
+                            <a href="#launch2" data-toggle="modal">
+                                <img src="img/timeline/2016_novembre_02B_affiche_loto_meyenheim_light.jpg" alt="Détails loto 11 Novembre">
+                            </a>
                         </div>
                     </div>
 
@@ -119,6 +123,25 @@
                 </ul>
                 <hr>
                 <a class="page-scroll" href="#contact">Renseignements et inscription</a>
+                    
+                <!-- Popup 1 -->
+                <section id="launch1" class="modal hide fade">
+                  <div id="printThis">
+                    <div class="modal-body">
+                        <img src="img/timeline/2016_Loto_11_novembre_affiche.jpg">
+                    </div>
+                  </div>
+                </section>
+                    
+                <!-- Popup 2 -->
+                <section id="launch2" class="modal hide fade">
+                  <div id="printThis">
+                    <div class="modal-body">
+                        <img src="img/timeline/2016_novembre_02B_affiche_loto_meyenheim_light.jpg">
+                    </div>
+                  </div>
+                </section>
+                    
                 </div>
             </div>
             </li>
@@ -167,13 +190,6 @@
 
     <!-- Theme JavaScript -->
     <script src="js/creative.min.js"></script>
-    
-    <!-- Popup -->
-    <script>
-        $('#popup').magnificPopup({
-            type: 'image'
-        });
-    </script>
 
 </body>
 
