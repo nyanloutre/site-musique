@@ -125,22 +125,26 @@
                 <a class="page-scroll" href="#contact">Renseignements et inscription</a>
                     
                 <!-- Popup 1 -->
-                <section id="launch1" class="modal hide fade">
-                  <div id="printThis">
-                    <div class="modal-body">
-                        <img src="img/timeline/2016_Loto_11_novembre_affiche.jpg">
+                <div id="launch1" class="modal fade" style="display: none;">
+                    <div class="modal-dialog">
+                      <div class="modal-content">
+                        <div class="modal-body">
+                            <img src="img/timeline/2016_Loto_11_novembre_affiche.jpg" class="img-responsive">
+                        </div>
+                      </div>
                     </div>
-                  </div>
-                </section>
+                </div>
                     
                 <!-- Popup 2 -->
-                <section id="launch2" class="modal hide fade">
-                  <div id="printThis">
-                    <div class="modal-body">
-                        <img src="img/timeline/2016_novembre_02B_affiche_loto_meyenheim_light.jpg">
+                <div id="launch2" class="modal fade" style="display: none;">
+                    <div class="modal-dialog">
+                      <div class="modal-content">
+                        <div class="modal-body">
+                            <img src="img/timeline/2016_novembre_02B_affiche_loto_meyenheim_light.jpg" class="img-responsive">
+                        </div>
+                      </div>
                     </div>
-                  </div>
-                </section>
+                </div>
                     
                 </div>
             </div>
