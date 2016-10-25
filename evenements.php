@@ -195,6 +195,7 @@
         <div class="page-header">
             <h1 id="timeline">Évenements passés</h1>
         </div>
+        <h2>2016</h2>
         <ul class="timeline">
             <li>
             <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-left"></i></div>
