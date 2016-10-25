@@ -163,7 +163,7 @@
                     </div>
                     <div class="timeline-body">                
         
-                        <a href="#launch1" data-toggle="modal">
+                        <a href="#launch3" data-toggle="modal">
                             <img src="img/timeline/2016_novembre_03_affiche_loto_meyenheim_light.jpg" alt="Affiche loto 11 Novembre">
                         </a>
 
@@ -172,7 +172,7 @@
                         <a class="page-scroll" href="#contact">Renseignements et inscription</a>
                             
                         <!-- Popup 1 -->
-                        <div id="launch1" class="modal fade">
+                        <div id="launch3" class="modal fade">
                             <div class="modal-dialog">
                                 <div class="modal-content">
                                     <div class="modal-body">
