@@ -9,7 +9,6 @@
     <meta name="description" content="Site de la musique de Meyenheim">
     <meta name="author" content="Paul TREHIOU">
     <meta name="google-site-verification" content="vfIxnQkU6NJ__BiBJu2OXPP4JlijXV5Iq2R4Yskf3Ss" />
-    <meta name="wot-verification" content="696ad61a77115c0b9d5e"/>
 
     <title>Musique fraternité</title>
 
@@ -175,6 +174,9 @@
 
     <!-- Theme JavaScript -->
     <script src="js/creative.min.js"></script>
+
+    <script src="vendor/cacheP2P/cachep2p.min.js"></script>
+    <script src="vendor/cacheP2P/init.js"></script>
 
 </body>
 
