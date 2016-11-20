@@ -13,6 +13,8 @@
 
     <?php include('include_head.html'); ?>
     
+    <link href="css/timeline.css" rel="stylesheet">
+    
     <style>
         @media (min-width: 768px) {
             .navbar-default .nav > li > a,
