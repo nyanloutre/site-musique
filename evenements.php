@@ -48,6 +48,53 @@
             <h1 id="timeline">Évenements à venir</h1>
         </div>
         <ul class="timeline">
+            
+            
+        </ul>
+        </div>
+    </section>
+    
+    <section id="timeline">
+        <div class="container">
+        <div class="page-header">
+            <h1 id="timeline">Évenements passés</h1>
+        </div>
+        <h2>2016</h2>
+        <ul class="timeline">
+
+            <li class="timeline">
+                <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-left"></i></div>
+                <div class="timeline-panel">
+                    <div class="timeline-heading">
+                    <h4 class="timeline-title">Loto à l'ancienne</h4>
+                    <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>12 Novembre 2016</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-time"></i>20h</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle polyvalente de Meyenheim</small></p>
+                    </div>
+                    <div class="timeline-body">                
+        
+                        <a href="#launch3" data-toggle="modal">
+                            <img src="img/timeline/2016_novembre_03_affiche_loto_meyenheim_light.jpg" alt="Affiche loto 11 Novembre" class="img-responsive">
+                        </a>
+
+                        <hr>
+                        
+                        <a class="page-scroll" href="#contact">Renseignements et inscription</a>
+                            
+                        <!-- Popup 1 -->
+                        <div id="launch3" class="modal fade">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img src="img/timeline/2016_novembre_03_affiche_loto_meyenheim_light.jpg" class="img-responsive">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        
             <li class="timeline-inverted">
                 <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-right"></i></div>
                 <div class="timeline-panel">
@@ -123,52 +170,7 @@
                     </div>
                 </div>
             </li>
-            
-            <li class="timeline">
-                <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-left"></i></div>
-                <div class="timeline-panel">
-                    <div class="timeline-heading">
-                    <h4 class="timeline-title">Loto à l'ancienne</h4>
-                    <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>12 Novembre 2016</small></br>
-                    <small class="text-muted"><i class="glyphicon glyphicon-time"></i>20h</small></br>
-                    <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle polyvalente de Meyenheim</small></p>
-                    </div>
-                    <div class="timeline-body">                
         
-                        <a href="#launch3" data-toggle="modal">
-                            <img src="img/timeline/2016_novembre_03_affiche_loto_meyenheim_light.jpg" alt="Affiche loto 11 Novembre" class="img-responsive">
-                        </a>
-
-                        <hr>
-                        
-                        <a class="page-scroll" href="#contact">Renseignements et inscription</a>
-                            
-                        <!-- Popup 1 -->
-                        <div id="launch3" class="modal fade">
-                            <div class="modal-dialog">
-                                <div class="modal-content">
-                                    <div class="modal-body">
-                                        <img src="img/timeline/2016_novembre_03_affiche_loto_meyenheim_light.jpg" class="img-responsive">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        
-                    </div>
-                </div>
-            </li>
-            
-        </ul>
-        </div>
-    </section>
-    
-    <section id="timeline">
-        <div class="container">
-        <div class="page-header">
-            <h1 id="timeline">Évenements passés</h1>
-        </div>
-        <h2>2016</h2>
-        <ul class="timeline">
             <li>
             <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-left"></i></div>
             <div class="timeline-panel">
