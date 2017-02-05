@@ -47,9 +47,83 @@
         <div class="page-header">
             <h1 id="timeline">Évenements à venir</h1>
         </div>
+        <h2>2017</h2>
         <ul class="timeline">
-            
-            
+
+        <!-- =========================================================== -->
+        <!--                  Maibummel 1er Mai 2017                     -->
+        <!-- =========================================================== -->
+        
+            <li class="timeline">
+                <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-left"></i></div>
+                <div class="timeline-panel">
+                    <div class="timeline-heading">
+                    <h4 class="timeline-title">Maibummel</h4>
+                    <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>1er Mai 2017</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-time"></i>9h</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle de musique, rue de l'Ill</small></p>
+                    </div>
+                    <div class="timeline-body">                
+        
+                        <a href="#pop_maibummel_17" data-toggle="modal">
+                            <img src="img/timeline/Affiche_1er_mai_2017_1.jpg" alt="Affiche 1er mai" class="img-responsive">
+                        </a>
+
+                        <hr>
+                        
+                        <a class="page-scroll" href="#contact">Renseignements et inscription</a>
+                            
+                        <!-- Popup 1 -->
+                        <div id="pop_maibummel_17" class="modal fade">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img src="img/timeline/Affiche_1er_mai_2017_1.jpg" class="img-responsive">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+
+        <!-- =========================================================== -->
+        <!--                     Loto 7 Mai 2017                         -->
+        <!-- =========================================================== -->
+        
+            <li class="timeline">
+                <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-left"></i></div>
+                <div class="timeline-panel">
+                    <div class="timeline-heading">
+                    <h4 class="timeline-title">Grand loto</h4>
+                    <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>7 Mai 2017</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-time"></i>14h - 23h</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle polyvalente de Meyenheim</small></p>
+                    </div>
+                    <div class="timeline-body">                
+        
+                        <a href="#pop_loto_7_5_17" data-toggle="modal">
+                            <img src="img/timeline/2017_7_mai_affiche_loto.jpg" alt="Affiche 1er mai" class="img-responsive">
+                        </a>
+
+                        <hr>
+                        
+                        <a class="page-scroll" href="#contact">Renseignements et inscription</a>
+                            
+                        <!-- Popup 1 -->
+                        <div id="pop_loto_7_5_17" class="modal fade">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img src="img/timeline/2017_7_mai_affiche_loto.jpg" class="img-responsive">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        
         </ul>
         </div>
     </section>
@@ -62,6 +136,10 @@
         <h2>2016</h2>
         <ul class="timeline">
 
+        <!-- =========================================================== -->
+        <!--                    Loto 12 Novembre 2016                    -->
+        <!-- =========================================================== -->
+        
             <li class="timeline">
                 <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-left"></i></div>
                 <div class="timeline-panel">
@@ -73,7 +151,7 @@
                     </div>
                     <div class="timeline-body">                
         
-                        <a href="#launch3" data-toggle="modal">
+                        <a href="#pop_loto_12_11_16" data-toggle="modal">
                             <img src="img/timeline/2016_novembre_03_affiche_loto_meyenheim_light.jpg" alt="Affiche loto 11 Novembre" class="img-responsive">
                         </a>
 
@@ -82,7 +160,7 @@
                         <a class="page-scroll" href="#contact">Renseignements et inscription</a>
                             
                         <!-- Popup 1 -->
-                        <div id="launch3" class="modal fade">
+                        <div id="pop_loto_12_11_16" class="modal fade">
                             <div class="modal-dialog">
                                 <div class="modal-content">
                                     <div class="modal-body">
@@ -94,7 +172,9 @@
                     </div>
                 </div>
             </li>
-        
+        <!-- =========================================================== -->
+        <!--                   Loto 11 Novembre 2016                     -->
+        <!-- =========================================================== -->
             <li class="timeline-inverted">
                 <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-right"></i></div>
                 <div class="timeline-panel">
@@ -111,13 +191,18 @@
                             <!-- Wrapper for slides -->
                             <div class="carousel-inner" role="listbox">
                                 <div class="item active">
-                                    <a href="#launch1" data-toggle="modal">
+                                    <a href="#pop_loto_11_11_16_1" data-toggle="modal">
                                         <img src="img/timeline/2016_Loto_11_novembre_affiche.jpg" alt="Affiche loto 11 Novembre">
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="#launch2" data-toggle="modal">
+                                    <a href="#pop_loto_11_11_16_2" data-toggle="modal">
                                         <img src="img/timeline/2016_novembre_02B_affiche_loto_meyenheim_light.jpg" alt="Détails loto 11 Novembre">
+                                    </a>
+                                </div>
+                                <div class="item">
+                                    <a href="#pop_loto_11_11_16_3" data-toggle="modal">
+                                        <img src="img/timeline/2016_nov_11_IMG_20161111_182030_3.jpg" alt="Photo loto 11 Novembre">
                                     </a>
                                 </div>
                             </div>
@@ -146,7 +231,7 @@
                         <a class="page-scroll" href="#contact">Renseignements et inscription</a>
                             
                         <!-- Popup 1 -->
-                        <div id="launch1" class="modal fade">
+                        <div id="pop_loto_11_11_16_1" class="modal fade">
                             <div class="modal-dialog">
                                 <div class="modal-content">
                                     <div class="modal-body">
@@ -157,7 +242,7 @@
                         </div>
                             
                         <!-- Popup 2 -->
-                        <div id="launch2" class="modal fade">
+                        <div id="pop_loto_11_11_16_2" class="modal fade">
                             <div class="modal-dialog">
                                 <div class="modal-content">
                                     <div class="modal-body">
@@ -167,10 +252,23 @@
                             </div>
                         </div>
                         
+                        <!-- Popup 3 -->
+                        <div id="pop_loto_11_11_16_3" class="modal fade">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img src="img/timeline/2016_nov_11_IMG_20161111_182030_3.jpg" class="img-responsive">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
                     </div>
                 </div>
             </li>
-        
+        <!-- =========================================================== -->
+        <!--                Marché aux puces Septembre 2016              -->
+        <!-- =========================================================== -->
             <li>
             <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-left"></i></div>
             <div class="timeline-panel">
@@ -179,14 +277,14 @@
                 <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>25 Septembre 2016</small></p>
                 </div>
                 <div class="timeline-body">
-                    <a href="#launch4" data-toggle="modal">
+                    <a href="#pop_puces_2016" data-toggle="modal">
                         <img src="img/timeline/puces_t.jpg" alt="Affiche puces" class="img-responsive">
                     </a>
                     <p>Organisé par la Société de Musique et le Football Club de Meyenheim. Plus de 400 exposants, dans les rues du village autour de l'église. Restauration à toute heure : grillades, ...</p>
                     <a href="files/2016_09_puces_tract.pdf">Renseignements et inscription</a>
                     
                     <!-- Popup 1 -->
-                    <div id="launch4" class="modal fade">
+                    <div id="pop_puces_2016" class="modal fade">
                         <div class="modal-dialog">
                             <div class="modal-content">
                                 <div class="modal-body">
