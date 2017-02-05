@@ -60,7 +60,7 @@
                     <div class="timeline-heading">
                     <h4 class="timeline-title">Maibummel</h4>
                     <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>1er Mai 2017</small></br>
-                    <small class="text-muted"><i class="glyphicon glyphicon-time"></i>9h</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-time"></i>9h - 14h</small></br>
                     <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle de musique, rue de l'Ill</small></p>
                     </div>
                     <div class="timeline-body">                
@@ -97,7 +97,7 @@
                     <div class="timeline-heading">
                     <h4 class="timeline-title">Grand loto</h4>
                     <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>7 Mai 2017</small></br>
-                    <small class="text-muted"><i class="glyphicon glyphicon-time"></i>14h - 23h</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-time"></i>12h - 24h</small></br>
                     <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle polyvalente de Meyenheim</small></p>
                     </div>
                     <div class="timeline-body">                
@@ -108,6 +108,14 @@
 
                         <hr>
                         
+                        <ul class="list-group">
+                            <li class="list-group-item">4 manches
+                            <li class="list-group-item">Ouverture des portes dès 12h
+                            <li class="list-group-item">Restauration assurée
+                        </ul>
+
+                        <hr>
+
                         <a class="page-scroll" href="#contact">Renseignements et inscription</a>
                             
                         <!-- Popup 1 -->
