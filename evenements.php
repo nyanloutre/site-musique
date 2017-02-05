@@ -190,7 +190,7 @@
             
                             <!-- Wrapper for slides -->
                             <div class="carousel-inner" role="listbox">
-                                <div class="item active">
+                                <div class="item">
                                     <a href="#pop_loto_11_11_16_1" data-toggle="modal">
                                         <img src="img/timeline/2016_Loto_11_novembre_affiche.jpg" alt="Affiche loto 11 Novembre">
                                     </a>
@@ -200,7 +200,7 @@
                                         <img src="img/timeline/2016_novembre_02B_affiche_loto_meyenheim_light.jpg" alt="Détails loto 11 Novembre">
                                     </a>
                                 </div>
-                                <div class="item">
+                                <div class="item active">
                                     <a href="#pop_loto_11_11_16_3" data-toggle="modal">
                                         <img src="img/timeline/2016_nov_11_IMG_20161111_182030_3.jpg" alt="Photo loto 11 Novembre">
                                     </a>
