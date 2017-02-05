@@ -88,6 +88,26 @@
             </li>
 
         <!-- =========================================================== -->
+        <!--                       Loto 6 Mai 2017                       -->
+        <!-- =========================================================== -->
+        
+            <li class="timeline-inverted">
+                <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-right"></i></div>
+                <div class="timeline-panel">
+                    <div class="timeline-heading">
+                    <h4 class="timeline-title">Loto à l'ancienne</h4>
+                    <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>6 Mai 2017</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-time"></i>20h</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle polyvalente de Meyenheim</small></p>
+                    </div>
+                    <div class="timeline-body">                
+                        <hr>
+                        <a class="page-scroll" href="#contact">Renseignements et inscription</a>
+                    </div>
+                </div>
+            </li>
+            
+        <!-- =========================================================== -->
         <!--                     Loto 7 Mai 2017                         -->
         <!-- =========================================================== -->
         
