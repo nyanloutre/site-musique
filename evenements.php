@@ -135,10 +135,33 @@
                     <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle polyvalente de Meyenheim</small></p>
                     </div>
                     <div class="timeline-body">                
-        
-                        <a href="#pop_loto_7_5_17" data-toggle="modal">
-                            <img src="img/timeline/2017_7_mai_affiche_loto.jpg" alt="Affiche 1er mai" class="img-responsive">
-                        </a>
+                        
+                        <div id="carousel-loto-2" class="carousel slide" data-ride="carousel">
+            
+                            <!-- Wrapper for slides -->
+                            <div class="carousel-inner" role="listbox">
+                                <div class="item active">
+                                    <a href="#pop_loto_7_5_17_1" data-toggle="modal">
+                                        <img src="img/timeline/2017_7_mai_affiche_loto_2.jpg" alt="Affiche 7 mai">
+                                    </a>
+                                </div>
+                                <div class="item">
+                                    <a href="#pop_loto_7_5_17_2" data-toggle="modal">
+                                        <img src="img/timeline/2017_7_mai_affiche_loto_2_verso.jpg" alt="Détails loto 7 mai">
+                                    </a>
+                                </div>
+                            </div>
+
+                            <!-- Controls -->
+                            <a class="left carousel-control" href="#carousel-loto-2" role="button" data-slide="prev">
+                                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                                <span class="sr-only">Previous</span>
+                            </a>
+                            <a class="right carousel-control" href="#carousel-loto-2" role="button" data-slide="next">
+                                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                                <span class="sr-only">Next</span>
+                            </a>
+                        </div>
 
                         <hr>
                         
@@ -153,11 +176,22 @@
                         <a class="page-scroll" href="#contact">Renseignements et inscription</a>
                             
                         <!-- Popup 1 -->
-                        <div id="pop_loto_7_5_17" class="modal fade">
+                        <div id="pop_loto_7_5_17_1" class="modal fade">
                             <div class="modal-dialog">
                                 <div class="modal-content">
                                     <div class="modal-body">
-                                        <img src="img/timeline/2017_7_mai_affiche_loto.jpg" class="img-responsive">
+                                        <img src="img/timeline/2017_7_mai_affiche_loto_2.jpg" class="img-responsive">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- Popup 2 -->
+                        <div id="pop_loto_7_5_17_2" class="modal fade">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img src="img/timeline/2017_7_mai_affiche_loto_2_verso.jpg" class="img-responsive">
                                     </div>
                                 </div>
                             </div>
