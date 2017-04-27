@@ -100,9 +100,23 @@
                     <small class="text-muted"><i class="glyphicon glyphicon-time"></i>20h</small></br>
                     <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle polyvalente de Meyenheim</small></p>
                     </div>
-                    <div class="timeline-body">                
+                    <div class="timeline-body">
+                        <a href="#pop_loto_6_5_17" data-toggle="modal">
+                            <img src="img/timeline/2017_6_mai_affiche_loto.jpg" alt="Affiche 6 mai" class="img-responsive">
+                        </a>
                         <hr>
                         <a class="page-scroll" href="#contact">Renseignements et inscription</a>
+                        
+                        <!-- Popup -->
+                        <div id="pop_loto_6_5_17" class="modal fade">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img src="img/timeline/2017_6_mai_affiche_loto.jpg" class="img-responsive">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </li>
