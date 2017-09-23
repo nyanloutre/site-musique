@@ -50,6 +50,20 @@
         <h2>2017</h2>
         <ul class="timeline">
 
+        
+        
+        </ul>
+        </div>
+    </section>
+    
+    <section id="timeline">
+        <div class="container">
+        <div class="page-header">
+            <h1 id="timeline">Évenements passés</h1>
+        </div>
+        <h2>2017</h2>
+        <ul class="timeline">
+        
         <!-- =========================================================== -->
         <!--        Concert de l'école de musique 20 mai 2017            -->
         <!-- =========================================================== -->
@@ -82,18 +96,6 @@
                     </div>
                 </div>
             </li>
-        
-        </ul>
-        </div>
-    </section>
-    
-    <section id="timeline">
-        <div class="container">
-        <div class="page-header">
-            <h1 id="timeline">Évenements passés</h1>
-        </div>
-        <h2>2016</h2>
-        <ul class="timeline">
         
         <!-- =========================================================== -->
         <!--                     Loto 7 Mai 2017                         -->
@@ -244,6 +246,10 @@
                     </div>
                 </div>
             </li>
+            
+        </ul>
+        <h2>2016</h2>
+        <ul class="timeline">
             
         <!-- =========================================================== -->
         <!--                    Loto 12 Novembre 2016                    -->
