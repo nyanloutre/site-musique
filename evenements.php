@@ -68,8 +68,8 @@
         <!--       Rentrée de l'école de musique Septembre 2017          -->
         <!-- =========================================================== -->
         
-            <li class="timeline-inverted">
-                <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-right"></i></div>
+            <li class="timeline">
+                <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-left"></i></div>
                 <div class="timeline-panel">
                     <div class="timeline-heading">
                     <h4 class="timeline-title">Rentrée de l'école de musique</h4>
@@ -135,8 +135,8 @@
         <!--      Concert de la classe de chant 6 juillet 2017           -->
         <!-- =========================================================== -->
         
-            <li class="timeline">
-                <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-left"></i></div>
+            <li class="timeline-inverted">
+                <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-right"></i></div>
                 <div class="timeline-panel">
                     <div class="timeline-heading">
                     <h4 class="timeline-title">Concert de la classe de chant</h4>
