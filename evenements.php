@@ -51,68 +51,30 @@
         <ul class="timeline">
 
         <!-- =========================================================== -->
-        <!--                  Maibummel 1er Mai 2017                     -->
-        <!-- =========================================================== -->
-        
-            <li class="timeline-inverted">
-                <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-right"></i></div>
-                <div class="timeline-panel">
-                    <div class="timeline-heading">
-                    <h4 class="timeline-title">Maibummel</h4>
-                    <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>1er Mai 2017</small></br>
-                    <small class="text-muted"><i class="glyphicon glyphicon-time"></i>9h - 14h</small></br>
-                    <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle de musique, rue de l'Ill</small></p>
-                    </div>
-                    <div class="timeline-body">                
-        
-                        <a href="#pop_maibummel_17" data-toggle="modal">
-                            <img src="img/timeline/Affiche_1er_mai_2017_1.jpg" alt="Affiche 1er mai" class="img-responsive">
-                        </a>
-
-                        <hr>
-                        
-                        <a class="page-scroll" href="#contact">Renseignements et inscription</a>
-                            
-                        <!-- Popup 1 -->
-                        <div id="pop_maibummel_17" class="modal fade">
-                            <div class="modal-dialog">
-                                <div class="modal-content">
-                                    <div class="modal-body">
-                                        <img src="img/timeline/Affiche_1er_mai_2017_1.jpg" class="img-responsive">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </li>
-
-        <!-- =========================================================== -->
-        <!--                       Loto 6 Mai 2017                       -->
+        <!--        Concert de l'école de musique 20 mai 2017            -->
         <!-- =========================================================== -->
         
             <li class="timeline">
                 <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-left"></i></div>
                 <div class="timeline-panel">
                     <div class="timeline-heading">
-                    <h4 class="timeline-title">Loto à l'ancienne</h4>
-                    <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>6 Mai 2017</small></br>
-                    <small class="text-muted"><i class="glyphicon glyphicon-time"></i>20h</small></br>
-                    <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle polyvalente de Meyenheim</small></p>
+                    <h4 class="timeline-title">Concert de l'école de musique</h4>
+                    <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>20 mai 2017</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-time"></i>16h</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle de la musique</small></p>
                     </div>
                     <div class="timeline-body">
-                        <a href="#pop_loto_6_5_17" data-toggle="modal">
-                            <img src="img/timeline/2017_6_mai_affiche_loto.jpg" alt="Affiche 6 mai" class="img-responsive">
+                        <a href="#pop_concert_20_5_17" data-toggle="modal">
+                            <img src="img/timeline/2017_05_concert_ecole_affiche_2ct.jpg" alt="Affiche 20 mai" class="img-responsive">
                         </a>
                         <hr>
-                        <a class="page-scroll" href="#contact">Renseignements et inscription</a>
                         
                         <!-- Popup -->
-                        <div id="pop_loto_6_5_17" class="modal fade">
+                        <div id="pop_concert_20_5_17" class="modal fade">
                             <div class="modal-dialog">
                                 <div class="modal-content">
                                     <div class="modal-body">
-                                        <img src="img/timeline/2017_6_mai_affiche_loto.jpg" class="img-responsive">
+                                        <img src="img/timeline/2017_05_concert_ecole_affiche_2ct.jpg" class="img-responsive">
                                     </div>
                                 </div>
                             </div>
@@ -120,7 +82,19 @@
                     </div>
                 </div>
             </li>
-            
+        
+        </ul>
+        </div>
+    </section>
+    
+    <section id="timeline">
+        <div class="container">
+        <div class="page-header">
+            <h1 id="timeline">Évenements passés</h1>
+        </div>
+        <h2>2016</h2>
+        <ul class="timeline">
+        
         <!-- =========================================================== -->
         <!--                     Loto 7 Mai 2017                         -->
         <!-- =========================================================== -->
@@ -199,19 +173,78 @@
                     </div>
                 </div>
             </li>
-        
-        </ul>
-        </div>
-    </section>
-    
-    <section id="timeline">
-        <div class="container">
-        <div class="page-header">
-            <h1 id="timeline">Évenements passés</h1>
-        </div>
-        <h2>2016</h2>
-        <ul class="timeline">
 
+        <!-- =========================================================== -->
+        <!--                       Loto 6 Mai 2017                       -->
+        <!-- =========================================================== -->
+        
+            <li class="timeline">
+                <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-left"></i></div>
+                <div class="timeline-panel">
+                    <div class="timeline-heading">
+                    <h4 class="timeline-title">Loto à l'ancienne</h4>
+                    <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>6 Mai 2017</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-time"></i>20h</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle polyvalente de Meyenheim</small></p>
+                    </div>
+                    <div class="timeline-body">
+                        <a href="#pop_loto_6_5_17" data-toggle="modal">
+                            <img src="img/timeline/2017_6_mai_affiche_loto.jpg" alt="Affiche 6 mai" class="img-responsive">
+                        </a>
+                        <hr>
+                        <a class="page-scroll" href="#contact">Renseignements et inscription</a>
+                        
+                        <!-- Popup -->
+                        <div id="pop_loto_6_5_17" class="modal fade">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img src="img/timeline/2017_6_mai_affiche_loto.jpg" class="img-responsive">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+
+        <!-- =========================================================== -->
+        <!--                  Maibummel 1er Mai 2017                     -->
+        <!-- =========================================================== -->
+        
+            <li class="timeline-inverted">
+                <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-right"></i></div>
+                <div class="timeline-panel">
+                    <div class="timeline-heading">
+                    <h4 class="timeline-title">Maibummel</h4>
+                    <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>1er Mai 2017</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-time"></i>9h - 14h</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle de musique, rue de l'Ill</small></p>
+                    </div>
+                    <div class="timeline-body">                
+        
+                        <a href="#pop_maibummel_17" data-toggle="modal">
+                            <img src="img/timeline/Affiche_1er_mai_2017_1.jpg" alt="Affiche 1er mai" class="img-responsive">
+                        </a>
+
+                        <hr>
+                        
+                        <a class="page-scroll" href="#contact">Renseignements et inscription</a>
+                            
+                        <!-- Popup 1 -->
+                        <div id="pop_maibummel_17" class="modal fade">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img src="img/timeline/Affiche_1er_mai_2017_1.jpg" class="img-responsive">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            
         <!-- =========================================================== -->
         <!--                    Loto 12 Novembre 2016                    -->
         <!-- =========================================================== -->
