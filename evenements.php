@@ -160,7 +160,7 @@
                 <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-right"></i></div>
                 <div class="timeline-panel">
                     <div class="timeline-heading">
-                    <h4 class="timeline-title">Super Loto</h4>
+                    <h4 class="timeline-title">Music' IllFest</h4>
                     <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>25 Novembre 2017</small></br>
                     <small class="text-muted"><i class="glyphicon glyphicon-time"></i>20h</small></br>
                     <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle polyvalente de Meyenheim</small></p>
