@@ -82,6 +82,39 @@
                     </div>
                 </div>
             </li>
+            
+        <!-- =========================================================== -->
+        <!--                     Loto 12 Novembre 2017                   -->
+        <!-- =========================================================== -->
+        
+            <li class="timeline-inverted">
+                <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-right"></i></div>
+                <div class="timeline-panel">
+                    <div class="timeline-heading">
+                    <h4 class="timeline-title">Super Loto</h4>
+                    <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>12 Novembre 2017</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-time"></i>14h15</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle polyvalente de Meyenheim</small></p>
+                    </div>
+                    <div class="timeline-body">
+                        <a href="#pop_loto_12_11_17" data-toggle="modal">
+                            <img src="img/timeline/2017_12_nov_affiche_loto_recto2A.jpg" alt="Affiche 6 juillet" class="img-responsive">
+                        </a>
+                        <hr>
+                        
+                        <!-- Popup -->
+                        <div id="pop_loto_12_11_17" class="modal fade">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img src="img/timeline/2017_12_nov_affiche_loto_recto2A.jpg" class="img-responsive">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
         
         </ul>
         </div>
