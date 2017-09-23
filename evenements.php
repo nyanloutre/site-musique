@@ -156,8 +156,8 @@
         <!--                   Concert 25 Novembre 2017                  -->
         <!-- =========================================================== -->
         
-            <li class="timeline-inverted">
-                <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-right"></i></div>
+            <li class="timeline">
+                <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-left"></i></div>
                 <div class="timeline-panel">
                     <div class="timeline-heading">
                     <h4 class="timeline-title">Music' IllFest</h4>
