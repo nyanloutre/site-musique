@@ -64,13 +64,38 @@
                     <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle polyvalente de Meyenheim</small></p>
                     </div>
                     <div class="timeline-body">
-                        <a href="#pop_loto_11_11_17" data-toggle="modal">
-                            <img src="img/timeline/2017_11_nov_affiche_loto_recto2.jpg" alt="Affiche 6 juillet" class="img-responsive">
-                        </a>
-                        <hr>
                         
-                        <!-- Popup -->
-                        <div id="pop_loto_11_11_17" class="modal fade">
+                        <div id="carousel-loto-11_2017" class="carousel slide" data-ride="carousel">
+            
+                            <!-- Wrapper for slides -->
+                            <div class="carousel-inner" role="listbox">
+                                <div class="item active">
+                                    <a href="#pop_loto_11_11_16_7_1" data-toggle="modal">
+                                        <img src="img/timeline/2017_11_nov_affiche_loto_recto2.jpg">
+                                    </a>
+                                </div>
+                                <div class="item">
+                                    <a href="#pop_loto_11_11_16_7_2" data-toggle="modal">
+                                        <img src="img/timeline/2017_11_loto_verso2-1.jpg">
+                                    </a>
+                                </div>
+                            </div>
+
+                            <!-- Controls -->
+                            <a class="left carousel-control" href="#carousel-loto-11_2017" role="button" data-slide="prev">
+                                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                                <span class="sr-only">Previous</span>
+                            </a>
+                            <a class="right carousel-control" href="#carousel-loto-11_2017" role="button" data-slide="next">
+                                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                                <span class="sr-only">Next</span>
+                            </a>
+                        </div>
+
+                        <hr>
+                            
+                        <!-- Popup 1 -->
+                        <div id="pop_loto_11_11_16_7_1" class="modal fade">
                             <div class="modal-dialog">
                                 <div class="modal-content">
                                     <div class="modal-body">
@@ -79,6 +104,19 @@
                                 </div>
                             </div>
                         </div>
+                        
+                        <!-- Popup 2 -->
+                        <div id="pop_loto_11_11_16_7_2" class="modal fade">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img src="img/timeline/2017_11_loto_verso2-1.jpg" class="img-responsive">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                        
                     </div>
                 </div>
             </li>
@@ -141,7 +179,7 @@
                     </div>
                     <div class="timeline-body">                
                         
-                        <div id="carousel-loto-2" class="carousel slide" data-ride="carousel">
+                        <div id="carousel-rentree-2017" class="carousel slide" data-ride="carousel">
             
                             <!-- Wrapper for slides -->
                             <div class="carousel-inner" role="listbox">
@@ -158,11 +196,11 @@
                             </div>
 
                             <!-- Controls -->
-                            <a class="left carousel-control" href="#carousel-loto-2" role="button" data-slide="prev">
+                            <a class="left carousel-control" href="#carousel-rentree-2017" role="button" data-slide="prev">
                                 <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
                                 <span class="sr-only">Previous</span>
                             </a>
-                            <a class="right carousel-control" href="#carousel-loto-2" role="button" data-slide="next">
+                            <a class="right carousel-control" href="#carousel-rentree-2017" role="button" data-slide="next">
                                 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
                                 <span class="sr-only">Next</span>
                             </a>
