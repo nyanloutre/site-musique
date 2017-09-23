@@ -50,7 +50,38 @@
         <h2>2017</h2>
         <ul class="timeline">
 
+        <!-- =========================================================== -->
+        <!--                     Loto 11 Novembre 2017                   -->
+        <!-- =========================================================== -->
         
+            <li class="timeline">
+                <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-left"></i></div>
+                <div class="timeline-panel">
+                    <div class="timeline-heading">
+                    <h4 class="timeline-title">Grand Loto</h4>
+                    <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>11 Novembre 2017</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-time"></i>14h - 00h</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle polyvalente de Meyenheim</small></p>
+                    </div>
+                    <div class="timeline-body">
+                        <a href="#pop_loto_11_11_17" data-toggle="modal">
+                            <img src="img/timeline/2017_11_nov_affiche_loto_recto2.jpg" alt="Affiche 6 juillet" class="img-responsive">
+                        </a>
+                        <hr>
+                        
+                        <!-- Popup -->
+                        <div id="pop_loto_11_11_17" class="modal fade">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img src="img/timeline/2017_11_nov_affiche_loto_recto2.jpg" class="img-responsive">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
         
         </ul>
         </div>
