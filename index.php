@@ -13,6 +13,16 @@
     <title>Musique fraternité</title>
 
     <?php include('include_head.html'); ?>
+    
+    <style>
+        .portfolio-box {
+            overflow: hidden;
+            max-height: 350px;
+        }
+        .portfolio-box img {
+            max-height: 350px;
+        }
+    </style>
 
 </head>
 
@@ -46,7 +56,7 @@
             <div class="row no-gutter popup-gallery">
                 <div class="col-lg-4 col-sm-6">
                     <a href="harmonie.php" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/1.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/thumbnails/1.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-name">
@@ -58,7 +68,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="ecole.php" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/2.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/thumbnails/2.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-name">
@@ -70,7 +80,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="evenements.php" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/3.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/thumbnails/3.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-name">
@@ -82,7 +92,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="direction.php" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/4.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/thumbnails/4.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-name">
@@ -94,7 +104,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="salle.php" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/5.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/thumbnails/5.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-name">
@@ -105,12 +115,12 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="#contact" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/6.jpg" class="img-responsive" alt="">
+                    <a href="partenaires.php" class="portfolio-box">
+                        <img src="img/partenaires/vialis.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-name">
-                                    Contact
+                                    Partenaires
                                 </div>
                             </div>
                         </div>
