@@ -45,11 +45,79 @@
     <section id="timeline">
         <div class="container">
         <div class="page-header">
-            <h1 id="timeline">Évenements à venir</h1>
+            <h1 id="timeline">Évènements à venir</h1>
+        </div>
+        <h2>2018</h2>
+        <ul class="timeline">
+        
+        <!-- =========================================================== -->
+        <!--                     Big Band 2018                           -->
+        <!-- =========================================================== -->
+        
+            <li class="timeline-inverted">
+                <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-right"></i></div>
+                <div class="timeline-panel">
+                    <div class="timeline-heading">
+                    <h4 class="timeline-title">Big Band</h4>
+                    <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>15 Avril 2018</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-time">17h</i></small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle polyvalente de Meyenheim</small></p>
+                    </div>
+                    <div class="timeline-body">
+          
+                        <div id="pop_bigband_15_04_18" class="carousel slide" data-ride="carousel">
+            
+                            <!-- Wrapper for slides -->
+                            <div class="carousel-inner" role="listbox">
+                                <div class="item">
+                                    <a href="#pop_bigband_15_04_18" data-toggle="modal">
+                                        <img src="img/timeline/Affiche_BigBand_2018.jpg">
+                                    </a>
+                                </div>
+                                <div class="item active embed-responsive embed-responsive-16by9">
+                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/eGLj2QdUa1I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                                </div>
+                            </div>
+
+                            <!-- Controls -->
+                            <a class="left carousel-control" href="#pop_bigband_15_04_18" role="button" data-slide="prev">
+                                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                                <span class="sr-only">Previous</span>
+                            </a>
+                            <a class="right carousel-control" href="#pop_bigband_15_04_18" role="button" data-slide="next">
+                                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                                <span class="sr-only">Next</span>
+                            </a>
+                        </div>
+
+                        <hr>
+                                                
+                        <!-- Popup -->
+                        <div id="pop_bigband_15_04_18" class="modal fade">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img src="img/timeline/Affiche_BigBand_2018.jpg" class="img-responsive">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        
+        </ul>
+        </div>
+    </section>
+    
+    <section id="timeline">
+        <div class="container">
+        <div class="page-header">
+            <h1 id="timeline">Évènements passés</h1>
         </div>
         <h2>2017</h2>
         <ul class="timeline">
-
+        
         <!-- =========================================================== -->
         <!--                     Loto 11 Novembre 2017                   -->
         <!-- =========================================================== -->
@@ -184,18 +252,6 @@
                     </div>
                 </div>
             </li>
-        
-        </ul>
-        </div>
-    </section>
-    
-    <section id="timeline">
-        <div class="container">
-        <div class="page-header">
-            <h1 id="timeline">Évenements passés</h1>
-        </div>
-        <h2>2017</h2>
-        <ul class="timeline">
         
         <!-- =========================================================== -->
         <!--       Rentrée de l'école de musique Septembre 2017          -->
