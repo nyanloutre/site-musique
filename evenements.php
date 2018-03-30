@@ -105,6 +105,108 @@
                     </div>
                 </div>
             </li>
+            
+        <!-- =========================================================== -->
+        <!--                     Loto 19 mai 2018                   -->
+        <!-- =========================================================== -->
+        
+            <li class="timeline">
+                <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-right"></i></div>
+                <div class="timeline-panel">
+                    <div class="timeline-heading">
+                    <h4 class="timeline-title">Super Loto</h4>
+                    <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>19 Mai 2018</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-time"></i>20h</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle polyvalente de Meyenheim</small></p>
+                    </div>
+                    <div class="timeline-body">
+                        <a href="#pop_loto_19_05_18" data-toggle="modal">
+                            <img src="img/timeline/2018_19_mai_affiche_loto_recto_2.jpg" alt="Affiche Loto 19 mai" class="img-responsive">
+                        </a>
+                        <hr>
+                        
+                        <!-- Popup -->
+                        <div id="pop_loto_19_05_18" class="modal fade">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img src="img/timeline/2018_19_mai_affiche_loto_recto_2.jpg" class="img-responsive">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        
+        <!-- =========================================================== -->
+        <!--                     Loto 20 mai 2018                   -->
+        <!-- =========================================================== -->
+        
+            <li class="timeline-inverted">
+                <div class="timeline-badge info"><i class="glyphicon glyphicon-menu-left"></i></div>
+                <div class="timeline-panel">
+                    <div class="timeline-heading">
+                    <h4 class="timeline-title">Grand Loto</h4>
+                    <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i>20 mai 2018</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-time"></i>14h15 - 00h</small></br>
+                    <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i>Salle polyvalente de Meyenheim</small></p>
+                    </div>
+                    <div class="timeline-body">
+                        
+                        <div id="carousel-loto-05_2018" class="carousel slide" data-ride="carousel">
+            
+                            <!-- Wrapper for slides -->
+                            <div class="carousel-inner" role="listbox">
+                                <div class="item active">
+                                    <a href="#pop_loto_20_05_18_1" data-toggle="modal">
+                                        <img src="img/timeline/2018_20_mai_affiche_loto_recto_2.jpg">
+                                    </a>
+                                </div>
+                                <div class="item">
+                                    <a href="#pop_loto_20_05_18_2" data-toggle="modal">
+                                        <img src="img/timeline/loto_2018_208mai_verso2-001.jpg">
+                                    </a>
+                                </div>
+                            </div>
+
+                            <!-- Controls -->
+                            <a class="left carousel-control" href="#carousel-loto-05_2018" role="button" data-slide="prev">
+                                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                                <span class="sr-only">Previous</span>
+                            </a>
+                            <a class="right carousel-control" href="#carousel-loto-05_2018" role="button" data-slide="next">
+                                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                                <span class="sr-only">Next</span>
+                            </a>
+                        </div>
+
+                        <hr>
+                            
+                        <!-- Popup 1 -->
+                        <div id="pop_loto_20_05_18_1" class="modal fade">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img src="img/timeline/2018_20_mai_affiche_loto_recto_2.jpg" class="img-responsive">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- Popup 2 -->
+                        <div id="pop_loto_20_05_18_2" class="modal fade">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img src="img/timeline/loto_2018_208mai_verso2-001.jpg" class="img-responsive">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
         
         </ul>
         </div>
