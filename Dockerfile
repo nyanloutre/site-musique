@@ -1,5 +1,5 @@
 FROM nginx:alpine
-MAINTAINER Paul TREHIOU <paul.trehiou@gmail.com>
+label maintainer="Paul TREHIOU <paul@nyanlout.re>"
 
 COPY nginx.conf /etc/nginx/conf.d/default.conf
 
